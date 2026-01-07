@@ -126,9 +126,9 @@ The schema is designed to support:
 ### Phase 1 – Core Backend
 
 - [x] Project setup
-- [ ] Database schema design
+- [x] Database schema design
 - [ ] GraphQL types & resolvers
-- [ ] PostgreSQL integration
+- [x] PostgreSQL integration
 
 ### Phase 2 – Business Logic
 
